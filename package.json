@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "SAOLauncher ",
+  "version": "1.0.0",
+  "productName": "SAO Launcher",
+  "description": "Launcher du serveur SAO de la QC-FR",
+  "author": "Daniel Scalzi et Papi_CARUS (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/PapiCANUS/SAOLauncher.git"
   }
 }
